@@ -30,7 +30,7 @@ const mulheres = [
 	},
 	{
 		id: '7d856b15-44b7-4282-ae8d-02f7e89323c8',
-		nome: "Carlota",
+		nome: "Carlota Joaquina",
         imagem:"",
 		minibio: "Desenvolvedora Senor"
 	}
